@@ -1,10 +1,8 @@
-# Relatorio_Hortifruti
-Dashboard em Power BI para análise de perdas em hortifruti, com foco em motivos de descarte, produtos mais afetados e ações corretivas.
 
 
 # 🥦 Dashboard de Gestão de Perdas – Projeto PIM Hortifruti
 
-Este projeto foi desenvolvido como parte do PIM (Projeto Integrado Multidisciplinar) do curso de Análise e Desenvolvimento de Sistemas, com foco na **análise de perdas de estoque** em um hortifruti. Utilizando **Power BI**, o projeto apresenta um dashboard interativo que facilita a tomada de decisão e a identificação de pontos críticos na operação.
+Este projeto foi desenvolvido com foco na **análise de perdas de estoque** em um hortifruti. Utilizando **Power BI**, o projeto apresenta um dashboard interativo que facilita a tomada de decisão e a identificação de pontos críticos na operação.
 
 ---
 
@@ -53,12 +51,12 @@ Lista dos itens com maior quantidade de perda, como:
 
 ---
 
-## ▶️ Como Visualizar o Projeto
+## ▶️  Visualização do Projeto
 
-1. Baixe o arquivo `Dashboard_PIM.pbix` disponível neste repositório.
-2. Abra com o Power BI Desktop.
-3. Caso necessário, substitua a base de dados fictícia (`base_dados.xlsx`) por dados reais ou atualizados.
+![relatorio 2](https://github.com/user-attachments/assets/d7c96450-33a9-4479-b79a-96d2483adaf8)
+
 
 ---
 
-## 📁 Estrutura do Repositório
+
+
