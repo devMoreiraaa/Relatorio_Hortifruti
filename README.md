@@ -1,6 +1,6 @@
 
 
-# 🥦 Dashboard de Gestão de Perdas – Projeto PIM Hortifruti
+# 🥦 Dashboard de Gestão de Perdas 
 
 Este projeto foi desenvolvido com foco na **análise de perdas de estoque** em um hortifruti. Utilizando **Power BI**, o projeto apresenta um dashboard interativo que facilita a tomada de decisão e a identificação de pontos críticos na operação.
 
